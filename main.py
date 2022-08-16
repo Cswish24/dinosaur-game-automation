@@ -4,24 +4,6 @@ import time
 
 import numpy as np
 
-# screenwidth, screenheight = pyautogui.size()
-
-# print(screenheight, screenwidth)
-
-# currentmousex, currentmousey = pyautogui.position()
-
-# print(currentmousex, currentmousey)
-
-# pyautogui.moveTo(100, 150)
-
-# time.sleep(1)
-
-# pyautogui.moveTo(100, 950)
-
-# time.sleep(1)
-
-# pyautogui.moveTo(900, 950)
-
 time.sleep(3)
 pyautogui.press('up')
 
